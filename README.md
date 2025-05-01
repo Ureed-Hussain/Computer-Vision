@@ -153,4 +153,8 @@ Contributions are welcome! To contribute:
 ## Contact
 
 **Authors**: Hassaan Ahmed, Muhammad Ureed Hussain, Malik Danial Ahmed
+
 GitHub: [@hassaanahmed04](https://github.com/hassaanahmed04)
+[Ureed-Hussain](https://github.com/Ureed-Hussain)
+[malikdanialahmed](https://github.com/malikdanialahmed)
+
