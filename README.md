@@ -9,7 +9,6 @@ This project implements 3D reconstruction from images using both **sparse** and 
 - 📸 Supports both monocular and stereo camera setups
 - 🧠 Sparse and dense 3D reconstruction
 - 🔍 Keypoint detection and feature matching
-- 🎯 Camera pose estimation
 - 🌄 Disparity and depth map computation
 - ☁️ 3D point cloud generation
 - 🧪 Jupyter notebooks for experimentation
