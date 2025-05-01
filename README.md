@@ -1,10 +1,10 @@
-# 🧱 3D Reconstruction using Sparse and Dense Methods
+# 3D Reconstruction using Sparse and Dense Methods
 
 This project implements 3D reconstruction from images using both **sparse** and **dense** reconstruction techniques. It supports **single-camera** and **multi-camera** (stereo) setups for generating 3D point clouds from 2D images.
 
 ---
 
-## 📦 Features
+## Features
 
 - 📸 Supports both monocular and stereo camera setups
 - 🧠 Sparse and dense 3D reconstruction
@@ -16,7 +16,7 @@ This project implements 3D reconstruction from images using both **sparse** and 
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 Ensure the following are installed:
 
@@ -47,7 +47,7 @@ Ensure the following are installed:
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 ### Option 1: Jupyter Notebooks
 
@@ -71,7 +71,7 @@ Ensure the following are installed:
 
 ---
 
-## 🧭 Usage Instructions
+## Usage Instructions
 
 ### 🔹 Single Camera Workflow
 
@@ -112,7 +112,7 @@ Example files included in the repository:
 
 ---
 
-## 🧩 Troubleshooting
+## Troubleshooting
 
 ### 📦 Installation Issues
 
@@ -133,13 +133,13 @@ import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 ```
 
-### 🧠 Memory Issues
+### Memory Issues
 
 - Resize large images before processing to avoid OOM (Out Of Memory) errors
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -150,13 +150,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Author**: Hassaan Ahmed  
 GitHub: [@hassaanahmed04](https://github.com/hassaanahmed04)
-
----
-## ✅ Example Output
-
-*Coming soon:* Sample screenshots of point clouds or depth maps can enhance this documentation.
-
