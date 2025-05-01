@@ -98,7 +98,7 @@ Ensure the following are installed:
 
 You may need to modify parameters or paths:
 
-- `core/config.py` — algorithm parameters (if present)
+- `core/*` — algorithm parameters
 - `main.py` — modify paths to image files, settings, etc.
 
 ---
