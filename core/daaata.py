@@ -86,15 +86,15 @@ def test_essential_matrix(E):
     U, S, Vt = np.linalg.svd(E)
     print(f"Singular values: {S}")
     if np.isclose(S[2], 0, atol=1e-5):
-        print("✅ Essential matrix has correct rank (2).")
+        print(" Essential matrix has correct rank (2).")
     else:
-        print("❌ Essential matrix does NOT have correct rank!")
+        print(" Essential matrix does NOT have correct rank!")
     det = np.linalg.det(E)
     print(f"Det(E) = {det}")
     if np.isclose(det, 0, atol=1e-5):
-        print("✅ Essential matrix satisfies det(E) = 0.")
+        print(" Essential matrix satisfies det(E) = 0.")
     else:
-        print("❌ Essential matrix does NOT satisfy det(E) = 0.\n")
+        print(" Essential matrix does NOT satisfy det(E) = 0.\n")
 
 # ------------------ 4. Triangulation & 3D Visualization ------------------ #
 def triangulate_points(P1, P2, pts1, pts2, K):
